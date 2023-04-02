@@ -7,7 +7,7 @@ import org.junit.Test;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.CoreMatchers.instanceOf;
 
-public class A_FirstTest {
+public class AFirstTest {
 
     @Test
     public void myFirstTest(){
